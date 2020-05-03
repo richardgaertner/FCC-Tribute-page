@@ -1,0 +1,50 @@
+body {
+    background-color: whitesmoke;
+}
+
+#main {
+    padding-top: 1%;
+    padding-bottom: 1%;
+    background-color: lightgrey;
+}
+
+#title {
+    text-align: center;
+    font-family: sans-serif;
+}
+
+#image {
+    width: 50%;
+    height: 50%;
+    max-width: 2000px;
+    max-height: 1125px;
+    display: block;
+    margin-top: 15px;
+    margin-left: auto;
+    margin-right: auto;
+
+}
+
+#img-caption {
+    margin-left: 25%;
+    font-family: sans-serif;
+    width: 50%;
+}
+
+#tribute-info {
+    font-family: sans-serif;
+}
+
+#tribute-info p {
+    width: 70%;
+    margin-left: 15%;
+
+}
+
+#tribute-info h2 {
+    text-align: center;
+}
+
+#wiki-link {
+    text-align: center;
+}
